@@ -31,7 +31,7 @@ assetsSummary:
   - ElectricalSeries
   - ElectrodeGroup
 citation: Devergnas, Annaelle (2024) SN recording during Temporal lobe seizures (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001069/draft
+  0.240621.2139) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001069/0.240621.2139
 contributor:
 - affiliation:
   - name: Emory Primate Center
@@ -51,12 +51,13 @@ dateCreated: '2024-06-21T16:58:13.699396+00:00'
 datePublished: '2024-06-21T21:39:45.609593+00:00'
 description: 'This data set contains the electrophysiological recordings from 2 NHPs
   during temporal lobe seizures induced by penicillin injection into the hippocampus. '
+doi: 10.48324/dandi.001069/0.240621.2139
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: PROTO201700590
   schemaKey: EthicsApproval
-id: DANDI:001069/draft
+id: DANDI:001069/0.240621.2139
 identifier: DANDI:001069
 keywords:
 - basal ganglia, SNr, SN, TLE, temporal lobe seizure, Non-human primate, seizure onset,
@@ -64,7 +65,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001069/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001069/0.240621.2139/assets.yaml
 name: SN recording during Temporal lobe seizures
 protocol: []
 publishedBy:
@@ -84,6 +85,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001069/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001069/0.240621.2139
+version: 0.240621.2139
 wasGeneratedBy: []
